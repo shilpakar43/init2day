@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#logo-icon {
+    margin-right: 40px; /* Adjust the spacing as needed */
+    margin-top: 20px;
+    
+}
+/* about.css */
+.logo {
+    margin-right: auto; /* Adjust spacing as needed */
+    width: 20ch; /* Adjust the width as needed */
+    height: 20ch; /* Maintain aspect ratio */
+}
+.nav-header_menu_list{
+    width: 40px;
+    height: inherit;
+    font-size: 20px;
+}
+.logo-div {
+    display: flex;
+    align-items: center;
+}
+
+.nav-header_menu_list {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    margin-right: 20px; /* Adjust the spacing between menu items as needed */
+}
+
+.nav-item a {
+    text-decoration: none;
+}
+
